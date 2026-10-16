@@ -7,7 +7,6 @@ Django ve Python ile web uygulamaları geliştiren bir **backend geliştiricisiy
 **Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Veritabanı:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -26,8 +25,8 @@ Django ve Python ile web uygulamaları geliştiren bir **backend geliştiricisiy
 
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [Proje Adı 1](https://github.com/merickayaa/Django-Social-Media) | Kullanıcı girişi, post paylaşımı, post beğenme, post yorumları, profil özellikleri olan bir sosyal medya sitesi. | Django, MySQL, Javascript |
-| [Proje Adı 2](https://github.com/merickayaa/Portfolio) | Projenin ne yaptığını anlatan tek cümle | HTML, Bootstrap, JavaScript |
+| [Django Social Media](https://github.com/merickayaa/Django-Social-Media) | Kullanıcı girişi, post paylaşımı, post beğenme, post yorumları, profil özellikleri olan bir sosyal medya sitesi. | Django, MySQL, Javascript |
+| [Portfolio](https://github.com/merickayaa/Portfolio) | Kendimi tanıtmak amacıyla yapılmış bir site. | HTML, Bootstrap, JavaScript |
 <!-- | [Proje Adı 3](https://github.com/KULLANICI_ADI/REPO_3) | Projenin ne yaptığını anlatan tek cümle | Python | -->
 
 ## 🌱 Şu Anda
@@ -38,7 +37,7 @@ Django ve Python ile web uygulamaları geliştiren bir **backend geliştiricisiy
 ## 🎓 Eğitim
 
 - **Yönetim Bilişim Sistemleri** (Lisans) — Anadolu Üniversitesi Açıköğretim *(devam ediyor)*
-- **Bilgisayar Programcılığı** (Önlisans) — OKUL_ADI *(mezun)*
+- **Bilgisayar Programcılığı** (Önlisans) — Balıkesir Üniversitesi *(mezun)*
 
 ## 📫 İletişim
 
