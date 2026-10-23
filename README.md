@@ -25,9 +25,9 @@ Django ve Python ile web uygulamaları geliştiren bir **backend geliştiricisiy
 
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [Django Social Media](https://github.com/merickayaa/Django-Social-Media) | Kullanıcı girişi, post paylaşımı, post beğenme, post yorumları, profil özellikleri olan bir sosyal medya sitesi. | Django, MySQL, Javascript |
-| [Portfolio](https://github.com/merickayaa/Portfolio) | Kendimi tanıtmak amacıyla yapılmış bir site. | HTML, Bootstrap, JavaScript |
-<!-- | [Proje Adı 3](https://github.com/KULLANICI_ADI/REPO_3) | Projenin ne yaptığını anlatan tek cümle | Python | -->
+| [Django Social Media](https://github.com/merickayaa/Django-Social-Media) | Kullanıcı girişi, post paylaşımı, post beğenme, post yorumları, profil özellikleri olan bir sosyal medya sitesi. | Django, MySQL, Javascript, AWS |
+| [Portfolio](https://github.com/merickayaa/Portfolio) | Kendimi tanıtmak amacıyla yapılmış bir site. | Django, HTML, Bootstrap, JavaScript |
+| [Proje Adı 3](https://github.com/merickayaa/Django-Multivendor-Ecommerce) | Çok satıcılı bir e ticaret sitesi. | Django, MySQL, Javascript, Ajax, AWS |
 
 ## 🌱 Şu Anda
 
